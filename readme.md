@@ -1,4 +1,4 @@
-# Tranxit Request Features
+# Vgo-Cabs Request Features
 
 * Promocode
 * Wallet
